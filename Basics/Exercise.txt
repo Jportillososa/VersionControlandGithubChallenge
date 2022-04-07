@@ -1,0 +1,6 @@
+1. The terminal is a command line that is built into the Mac operating system that allows you to take control and make changes to files. You can also use the terminal to access git and GitHub.
+
+2. The major difference between Git and Github is that Git is a software that is locally installed into the Mac computer that stores and saves changes to local repositories. 
+While, Github is a website where you can upload a copy of your git repositories and save your progress online through the web.
+
+3. Github is used to collaborate on projects with others. This online service makes it easy for teammates to access each others projects. With Github you can also save our progress and go back to earlier changes In our projects.
